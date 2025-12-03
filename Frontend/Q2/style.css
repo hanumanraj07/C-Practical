@@ -1,0 +1,23 @@
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 200px 200px;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: black;
+}
+.box4{
+    background-color: green;
+}
+.box5{
+    background-color: yellow;
+}
+.box6{
+    background-color: orange;
+}
